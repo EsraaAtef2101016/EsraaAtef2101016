@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esraa !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esraaatef2101016&label=Profile%20views&color=0e75b6&style=flat" alt="esraaatef2101016" /> </p>
 
-- 🔭 I’m currently learning at **Faculty Of Engineering Ain-Shams University**
+- 🔭 🔭 Graduated from **Faculty Of Engineering Ain-Shams University**
 
 - 📫 How to reach me **esraaatef011529@gmail.com**
 
